@@ -3,6 +3,8 @@
 ### Deskripsi
 AppMeme adalah aplikasi pembuat meme yang dibangun menggunakan api expo. Aplikasi ini memungkinkan pengguna membuat meme dari gambar lokal aplikasi ataupun gambar di galeri. Setelah selesai mengedit, Anda bisa menshare hasil meme yanf telah Anda buat ke Teman Anda.
 
+<img src="#" width="360" height="640" />
+
 ### Daftar package yang digunakan (expo)
 - captureRef
 - Constants
