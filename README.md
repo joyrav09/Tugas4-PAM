@@ -10,5 +10,5 @@ AppMeme adalah aplikasi pembuat meme yang dibangun menggunakan api expo. Aplikas
 - ImagePicker
 
 ### Cara menginstal Aplikasi
-- Download apilkasi AppMeme melalui link berikut : [AppMeme](https://breakdance.github.io/breakdance/)
+- Download apilkasi AppMeme melalui link berikut : [AppMeme](https://drive.google.com/file/d/196WL027HAFTsJBCxRgfOWJ9BjIZP2AzH/view)
 - Kemudian instal pada perangkat yang Anda gunakan.
